@@ -4,7 +4,7 @@ Monte Carlo pricing and sensitivity estimation for path-dependent options in the
 
 **Authors:** Mohamed Reda Elaoufir and Alexis Bruneau. MSc project, Université Paris 1 Panthéon-Sorbonne, March 2026. Original project supervisor: Christophe Chorro.
 
-**Revision (November 2026):** This portfolio version includes AI-assisted mathematical corrections, refined explanations and numerical implementation improvements. It has not been reviewed or assessed by the course instructor.
+**Revision (November 2026):** This portfolio version includes mathematical corrections, refined explanations and numerical implementation improvements. It has not been reviewed or assessed by the course instructor.
 
 ## Methods
 
